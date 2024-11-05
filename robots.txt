@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onofoega.github.io/ATr/sitemap_index.txt
+Sitemap: https://onofoega.github.io/Aba/sitemap_index.txt
+Sitemap: https://onofoega.github.io/mnK/sitemap_index.txt
+Sitemap: https://onofoega.github.io/vGB/sitemap_index.txt
